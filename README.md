@@ -50,7 +50,7 @@ Upload to GitHub Pages for free hosting.
 ## PROGRAM
 
 HTML:
-
+'''
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -86,9 +86,9 @@ HTML:
 </body>
 </html>
 
-
+'''
 CSS:
-
+'''
 body {
     font-family: Arial, sans-serif;
     text-align: center;
@@ -116,9 +116,7 @@ section {
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
 }
 
-
-
-
+'''
 ## OUTPUT
 
 ![PORTFOLIO](https://github.com/user-attachments/assets/4022a6f4-36f6-4143-b027-7105a2677a40)
