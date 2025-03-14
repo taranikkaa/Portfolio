@@ -49,8 +49,6 @@ Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
 '''
-HTML:
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -85,11 +83,6 @@ HTML:
     </footer>
 </body>
 </html>
-
-
-'''
-'''
-CSS:
 
 body {
     font-family: Arial, sans-serif;
