@@ -48,9 +48,9 @@ Deploy the Portfolio.
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
-
-HTML:
 '''
+HTML:
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -62,13 +62,13 @@ HTML:
 <body>
     <header>
         <img src="c:\Users\admin\Desktop\tara.jpg" alt="My Profile Picture" class="profile-pic">
-        <h1>TARANIKKA A</h1>
+        <h1>TARANIKKA</h1>
         <p>Aspiring Web Developer | Passionate Learner</p>
     </header>
 
     <section>
         <h2>About Me</h2>
-        <p>Hello! I am a student learning web development.I enjoy coding and designing websites. </p>
+        <p>Hello! I am a student learning web development. I enjoy coding and designing websites.</p>
     </section>
 
     <section>
@@ -81,14 +81,16 @@ HTML:
 
     <footer>
         <h2>Contact Me</h2>
-        <p>Email: taranikka@example.com</p>
+        <p>Email: tara@example.com</p>
     </footer>
 </body>
 </html>
 
+
+'''
 '''
 CSS:
-'''
+
 body {
     font-family: Arial, sans-serif;
     text-align: center;
@@ -99,9 +101,9 @@ body {
 
 .profile-pic {
     width: 150px;
-    height: 200px;
+    height: 150px;
     border-radius: 50%;
-    border: 3px solid #181717;
+    border: 3px solid #141010;
 }
 
 h1 {
@@ -111,10 +113,12 @@ h1 {
 section {
     margin: 20px;
     padding: 10px;
-    background-color: rgb(255, 0, 0);
+    background-color: rgb(246, 22, 22);
     border-radius: 10px;
     box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
 }
+
+
 
 '''
 ## OUTPUT
