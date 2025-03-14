@@ -1,6 +1,9 @@
 # Ex01 Portfolio
 ## Date:14/03/2025
 
+## Name: TARANIKKA A
+## REG NO:212223220115
+
 ## AIM
 To create a Portfolio using HTML and CSS.
 
