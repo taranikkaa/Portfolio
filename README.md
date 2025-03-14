@@ -123,8 +123,7 @@ section {
 
 ## OUTPUT
 
-![t](https://github.com/user-attachments/assets/caffbdc0-7a1a-40f2-8154-b21dc7b61747)
-
+![t](https://github.com/user-attachments/assets/821351a0-8bbb-4ccb-a5d2-51de6e380c11)
 
 
 
