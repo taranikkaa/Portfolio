@@ -123,10 +123,12 @@ section {
 
 ## OUTPUT
 
-![PORTFOLIO](https://github.com/user-attachments/assets/4022a6f4-36f6-4143-b027-7105a2677a40)
+![t](https://github.com/user-attachments/assets/1d5b53f3-50d0-405b-9a06-ac3b0e5a793b)
+
 
 
 
 ## RESULT
+
 
 The program for creating Portfolio using HTML and CSS is executed successfully.
